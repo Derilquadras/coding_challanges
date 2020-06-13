@@ -1,5 +1,5 @@
+//Write a C Program to calculate Electricity Bill
 #include <stdio.h>
-
 int main()
 {
     int unit;
