@@ -1,5 +1,5 @@
+//Find the smallest positive integer value that cannot be represented as sum of any subset of a given array sorted in ascending order.
 #include<stdio.h>
-
 int findSmallest(int arr[], int n) 
 { 
    int res = 1;
